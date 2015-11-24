@@ -1,5 +1,3 @@
-
-
 # HEBRARD Jérôme
 
 Je m'appelle Jérôme, 27 ans et j'habite Verdun depuis peu.
@@ -20,5 +18,5 @@ Je m'appelle Jérôme, 27 ans et j'habite Verdun depuis peu.
 
 ##Pourquoi m'être inscrit sur simplonline ?
 
-Pour apprenddre le développement web et mobile et pouvoir en faire mon métier et continuer d'apprendre après cette formation.
+Pour apprendre le développement web et mobile et pouvoir en faire mon métier et continuer d'apprendre après cette formation.
 
